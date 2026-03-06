@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # --- CONFIGURATION ---
 TOKEN = "8519141404:AAE7yLTB6rZ0rjOW3HIkm5IT5tlVRulSGAk"
-SERVER_URL = "https://mag-photo-bot.onrender.com"
+SERVER_URL = "https://b0j5mn6t8a.onrender.com"
 
 app = Flask(__name__)
 
